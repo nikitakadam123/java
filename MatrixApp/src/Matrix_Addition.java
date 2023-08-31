@@ -45,8 +45,9 @@ public class Matrix_Addition {
 			{
 				System.out.print(a[i][j]+" ");
 			}
+			System.out.println(" ");
 		}
-		System.out.println(" ");
+		
 		
 		System.out.println("Element in matrix 2nd: ");
 		for(int i=0;i<r2;i++)
@@ -55,8 +56,9 @@ public class Matrix_Addition {
 			{
 				System.out.print(b[i][j]+"\t");
 			}
+			System.out.println(" ");
 		}
-		System.out.println(" ");
+		
 		
 		//Addition of matrix
 		

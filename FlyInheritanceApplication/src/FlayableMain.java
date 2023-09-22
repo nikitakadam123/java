@@ -44,9 +44,6 @@ class Rocket extends Helicopter{
 	}
 }
 
-
-
-
 public class FlayableMain {
 
 	public static void main(String[] args) {
